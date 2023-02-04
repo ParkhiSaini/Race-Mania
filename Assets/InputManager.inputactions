@@ -1,0 +1,85 @@
+{
+    "name": "InputManager",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "57304ca8-ec0e-4d2f-9baf-b0d3870c0da4",
+            "actions": [
+                {
+                    "name": "controls",
+                    "type": "Value",
+                    "id": "cca93ece-e816-414d-a269-018db0ac6432",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "cam",
+                    "type": "Button",
+                    "id": "84b81ea0-fb23-41f0-a318-af6ce3d28e9f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "53d0b714-9ffc-409f-9f73-c3d1648ec03c",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "controls",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5fa6d443-cc7e-4bf6-93cc-86d4fcb12bc1",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "controls",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1bd157a8-4383-4187-a057-ec6d9b28afbf",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "controls",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "20394ecc-6962-4c6e-a0d6-a1961c1db62f",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "controls",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9e6ea093-0a0f-4238-8e9c-bf079bdea06e",
+                    "path": "<Keyboard>/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "cam",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

@@ -1,0 +1,52 @@
+{
+    "name": "input2",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "efea9ea0-ff7a-4376-a423-f8df529c8eed",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Value",
+                    "id": "f70cee2a-1cdd-4363-94bf-2857a2ec7026",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "CAM",
+                    "type": "Button",
+                    "id": "47d10dc8-d0a2-474c-8706-04ddba92cafb",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "64c44b6d-61fb-4e26-97b6-b42f6d807e4b",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2568e41e-b7d1-4026-a580-98f0b899cb2f",
+                    "path": "<Keyboard>/z",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CAM",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
